@@ -8,6 +8,6 @@ Neural networks simulate the brain's structure, consisting of interconnected lay
 
 Inter-process communication via pipes facilitates seamless data exchange, including weights and biases, between layers and neurons. During backpropagation, a pivotal phase in neural network training, error signals propagate backward through layers, leveraging multi-core processing to expedite computations. 
 
-![Image Alt text](images/ICLH_Diagram_Batch_01_03-DeepNeuralNetwork.jpg "Neural Network"))
+![Image Alt text](/images/ICLH_Diagram_Batch_01_03-DeepNeuralNetwork.png "Neural Network"))
 
 In summary, this project develops an operating system architecture harnessing multi-core processors to accelerate neural network training and inference. By integrating parallel computing and inter-process communication, it enhances computational efficiency, pushing the boundaries of machine learning and artificial intelligence. Implemented in C++, the project exemplifies practical application of operating system concepts learned through coursework.
